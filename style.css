@@ -5,3 +5,14 @@ h1 {
 }
 
 .parag {
+    font-family: cursive;
+    font-style: inherit;
+}
+
+a {
+    font-style: oblique;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
